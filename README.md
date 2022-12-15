@@ -3,7 +3,7 @@ An example of election smart contract:
 
 ```
 //SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.9.0;
+pragma solidity ^0.8.17;
 
 contract Election{ 
     struct Candidate{
